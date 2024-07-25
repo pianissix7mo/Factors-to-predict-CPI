@@ -1,8 +1,10 @@
+# Factors to predict CPI using Neural Network
+
+### Author: Wang Mofei
+
 ### Overview
 - The project aims to predict the Consumer Price Index (CPI) using various factors and a neural network model.
 - Due to the impact of COVID-19, inflation has significantly increased, making the study of CPI prediction particularly relevant.
-
-### Author: Mofei Wang
 
 ### Data and Methods
 - **CPI Data**: Monthly data from 1913 to 2020.
